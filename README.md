@@ -1,4 +1,4 @@
-[![Header](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/header.png)](https://qaschool.ru/students/a_tyuhteev/)
+[![Header](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/Header.gif)](https://qaschool.ru/students/a_tyuhteev/)
 
 About Me
 
