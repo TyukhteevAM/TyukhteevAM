@@ -1,8 +1,8 @@
 [![Header](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/Header.gif)](https://qaschool.ru/students/a_tyuhteev/)
 
-### I'm a Middle manual QA Engineer and Junior Automation Engineer.
-
-### Languages and Tools
+# <p align="center">I'm a Middle manual QA Engineer and a Junior Automation Engineer</p>
+***
+##  **_Languages and Tools_**
 ![JIRA](https://img.shields.io/badge/JIRA-000000?style=for-the-badge&logo=JIRA&logoColor=136BE1)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence&logoColor=136BE1)
 ![TestRail](https://img.shields.io/badge/TestRail-000000?style=for-the-badge&logo=TestRail&logoColor=136BE1)
@@ -23,8 +23,8 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3F79AA)
 ![PyTest](https://img.shields.io/badge/PyTest-000000?style=for-the-badge&logo=PyTest&logoColor=C0C901)
 ![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=Allure&logoColor=C0C901)
-
-### Follow Me
+---
+## _Follow Me_
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=C0C901)](https://t.me/TAM_1985)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=42C152)](https://api.whatsapp.com/send?phone=9825481822)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](http://www.linkedin.com/in/tyukhteevam)
