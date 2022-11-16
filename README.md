@@ -15,16 +15,16 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=E44D30)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=11111)
 ![Kibana](https://img.shields.io/badge/Kibana-000000?style=for-the-badge&logo=Kibana&logoColor=E44A90)
-
+---
 ![Fiddler](https://img.shields.io/badge/Fiddler-000000?style=for-the-badge&logo=Fiddler&logoColor=E44A90)
 ![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-badge&logo=Charles&logoColor=E44A90)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=4CE489)
-
+---
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3F79AA)
 ![PyTest](https://img.shields.io/badge/PyTest-000000?style=for-the-badge&logo=PyTest&logoColor=C0C901)
 ![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=Allure&logoColor=C0C901)
----
-## _Follow Me_
+***
+## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=C0C901)](https://t.me/TAM_1985)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=42C152)](https://api.whatsapp.com/send?phone=9825481822)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](http://www.linkedin.com/in/tyukhteevam)
