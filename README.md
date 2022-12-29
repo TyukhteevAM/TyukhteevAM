@@ -33,5 +33,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyukhteevAM&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyukhteevAM&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-***
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TyukhteevAM)](https://github.com/anuraghazra/github-readme-stats)
