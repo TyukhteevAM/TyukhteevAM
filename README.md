@@ -22,6 +22,7 @@
 ---
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3F79AA)
 ![PyTest](https://img.shields.io/badge/PyTest-000000?style=for-the-badge&logo=PyTest&logoColor=C0C901)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=#00AE00)
 ![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=Allure&logoColor=C0C901)
 ***
 ## **_Follow Me_**
