@@ -30,6 +30,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](http://www.linkedin.com/in/tyukhteevam)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=0A66C2)](mailto:discofan@yandex.ru)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyukhteevAM&show_icons=true&theme=highcontrast)]((https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyukhteevAM&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyukhteevAM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
