@@ -33,7 +33,6 @@
 ***
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=C0C901)](https://t.me/TAM_1985)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=42C152)](https://api.whatsapp.com/send?phone=9825481822)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](http://www.linkedin.com/in/tyukhteevam)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=0A66C2)](mailto:discofan@yandex.ru)
 ***
