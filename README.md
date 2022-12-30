@@ -15,6 +15,8 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=E44D30)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=11111)
 ![Kibana](https://img.shields.io/badge/Kibana-000000?style=for-the-badge&logo=Kibana&logoColor=E44A90)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=Jenkins&logoColor=#D33833)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=Kafka&logoColor=#D33833)
 ---
 ![Fiddler](https://img.shields.io/badge/Fiddler-000000?style=for-the-badge&logo=Fiddler&logoColor=E44A90)
 ![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-badge&logo=Charles&logoColor=E44A90)
