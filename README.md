@@ -25,6 +25,12 @@
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=#00AE00)
 ![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=Allure&logoColor=C0C901)
 ***
+## **_My certificates_**
+[![POINT](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/POINT.jpg)](https://qaschool.ru/school-center/certificate.php?id=22550&lang=en)
+[![School of Test Analytics](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/School%20of%20Test%20Analytics.jpg)](https://qaschool.ru/school-center/certificate.php?id=22884&lang=en)
+[![REST API](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API(small).png)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API.png)
+[![Pre-Intermediate Business English Course (A2)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/English(A2).jpg)](https://qaschool.ru/school-center/certificate.php?id=22854&lang=en)
+***
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=C0C901)](https://t.me/TAM_1985)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=42C152)](https://api.whatsapp.com/send?phone=9825481822)
