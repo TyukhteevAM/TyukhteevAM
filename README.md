@@ -34,7 +34,7 @@
 [![Pre-Intermediate Business English Course (A2)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/English(A2).jpg)](https://qaschool.ru/school-center/certificate.php?id=22854&lang=en)
 ***
 ## **_Follow Me_**
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=C0C901)](https://t.me/TAM_1985)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TAM_1985)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](http://www.linkedin.com/in/tyukhteevam)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=0A66C2)](mailto:discofan@yandex.ru)
 ***
