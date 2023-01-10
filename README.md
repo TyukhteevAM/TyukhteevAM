@@ -36,7 +36,7 @@
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TAM_1985)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/tyukhteevam)
-[![Email](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](mailto:discofan@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Email&logoColor=white)](mailto:discofan@yandex.ru)
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyukhteevAM&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
