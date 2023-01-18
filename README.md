@@ -38,7 +38,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/tyukhteevam)
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Email&logoColor=white)](mailto:discofan@yandex.ru)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyukhteevam&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyukhteevAM&show_icons=true&theme=radical)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyukhteevAM&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ***
