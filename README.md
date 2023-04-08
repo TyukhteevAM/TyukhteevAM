@@ -32,7 +32,7 @@
 [![School of Test Analytics](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/School%20of%20Test%20Analytics.jpg)](https://qaschool.ru/school-center/certificate.php?id=22884&lang=en)
 [![REST API](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API(small).png)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API.png)
 [![Pre-Intermediate Business English Course (A2)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/English(A2).jpg)](https://qaschool.ru/school-center/certificate.php?id=22854&lang=en)
-[![https://stepik.org/cert/1995070](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate-575-0214768.pdf)](https://stepik.org/cert/1995070)
+[![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate.jpg)](https://stepik.org/cert/1995070)
 ***
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TAM_1985)
