@@ -33,7 +33,7 @@
 [![REST API](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API(small).png)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/REST%20API.png)
 [![Pre-Intermediate Business English Course (A2)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/English(A2).jpg)](https://qaschool.ru/school-center/certificate.php?id=22854&lang=en)
 [![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate.jpg)](https://stepik.org/cert/1995070)
-[![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate (Программирование на Python).jpg)](https://stepik.org/cert/2066240)
+[![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate_(Программирование_на_Python).jpg)](https://stepik.org/cert/2066240)
 ***
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TAM_1985)
