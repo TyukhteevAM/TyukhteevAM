@@ -34,7 +34,7 @@
 [![Pre-Intermediate Business English Course (A2)](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/English%20(small).jpg?raw=true)](https://qaschool.ru/school-center/certificate.php?id=22854&lang=en)
 [![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate.jpg)](https://stepik.org/cert/1995070)
 [![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/stepik-certificate(2).jpg)](https://stepik.org/cert/2066240)
-[![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/Тестирование%20ПО%20Автоматизация%20и%20Программирование%20на%20Python.%20API.jpg)]([https://stepik.org/cert/2066240)
+[![Stepik](https://github.com/TyukhteevAM/TyukhteevAM/blob/main/Assets/Тестирование%20ПО%20Автоматизация%20и%20Программирование%20на%20Python.%20API.jpg)](https://stepik.org/cert/2066240](https://stepik.org/certificate/b8ec7a58f4a866663d788590e43ba15c359e4901.pdf)
 ***
 ## **_Follow Me_**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TAM_1985)
